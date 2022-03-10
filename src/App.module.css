@@ -1,5 +1,5 @@
 body {
-  background-color: #f1faee;
+  background-color: #fefae0;
 }
 
 .container {
@@ -9,8 +9,8 @@ body {
 }
 
 .image {
-  width: 370px;
-  margin-top: 50px;
+  width: 100px;
+  margin-top: 20px;
 }
 
 @media only screen and (max-width: 770px) {
